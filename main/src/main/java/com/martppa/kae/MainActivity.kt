@@ -1,4 +1,4 @@
-package com.martppa.kotlin_android_example
+package com.martppa.kae
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

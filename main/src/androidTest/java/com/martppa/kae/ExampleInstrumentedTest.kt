@@ -1,4 +1,4 @@
-package com.martppa.kotlin_android_example
+package com.martppa.kae
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

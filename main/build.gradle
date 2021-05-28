@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.martppa.kotlin_android_example"
+        applicationId 'com.martppa.kae'
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
