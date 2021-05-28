@@ -1,0 +1,2 @@
+rootProject.name = "Kotlin Android Example"
+include ':main'
